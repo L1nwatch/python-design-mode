@@ -1,3 +1,5 @@
-# My Awesome Book
+# 《精通 Python 设计模式》
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+这是阅读 《精通 Python 设计模式》这本书时做的笔记
+
+已经做成 [GitBook 形式](https://l1nwatch.gitbooks.io/python-design-mode/content/)

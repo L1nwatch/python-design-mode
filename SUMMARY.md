@@ -1,3 +1,4 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [第一部分 创建型模式](第一部分 创建型模式/readme.md)
+    * [第 1 章 工厂模式](第一部分 创建型模式/第 1 章 工厂模式.md)
